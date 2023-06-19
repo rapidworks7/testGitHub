@@ -14,11 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-        print("test")
-        print("github test3")
-        print("Github Writing...!!!")
-        print("new 2223444444444")
-        print("a111111")
+        print("remote reset")
         return true
     }
 
